@@ -4,6 +4,7 @@
 <img src="https://github.com/javiergarciam1/javiergarciam1/blob/main/header.png" alt="Imagen de portada">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/tuID?style=social)](https://www.youtube.com/@JavierGarcia_)
+[![GitHub followers](https://img.shields.io/github/followers/tuUsuario?style=social)](https://github.com/javiergarciam1)
 <div align="center">
   <h4 align="center">Pronto Subire Video a mi canal</h4>
 </div>
@@ -11,7 +12,7 @@
 ## Sobre mí
 
 - 🌟 Desarrollador apasionado
-- 📲 Creador de apps móviles
+- 📲 Creador de paginas web
 - 🎥 Enseño a programar en [YouTube](https://www.youtube.com/@JavierGarcia_)
 - 🖥️ Mi Pagina Web [Todo Sobre mi](https://tusitio.com/blog)
 
@@ -56,8 +57,20 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/tuUsuario">
+  <a href="https://github.com/javiergarciam1">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuUsuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+### 📚 Lenguajes que estoy estudiando
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
