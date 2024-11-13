@@ -3,19 +3,18 @@
 </div>
 <img src="https://github.com/javiergarciam1/javiergarciam1/blob/main/header.png" alt="Imagen de portada">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/tuID?style=social)](https://youtube.com/tu-canal)
-[![Twitch Status](https://img.shields.io/twitch/status/tuUsuario?style=social)](https://www.twitch.tv/tuUsuario)
-[![GitHub followers](https://img.shields.io/github/followers/tuUsuario?style=social)](https://github.com/tuUsuario)
-![Discord Shield](https://discordapp.com/api/guilds/tuID/widget.png?style=shield)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/tuID?style=social)](https://www.youtube.com/@JavierGarcia_)
+<div align="center">
+  <h4 align="center">Pronto Subire Video a mi canal</h4>
+</div>
 
 ## Sobre mí
 
 - 🌟 Desarrollador apasionado
 - 📲 Creador de apps móviles
-- 🎥 Enseño a programar en [YouTube](https://youtube.com/tu-canal)
-- ✏️ Escribo en [Mi Blog](https://tusitio.com/blog)
-- 📚 Autor del libro **Título de tu libro**
-- 🧑‍🏫 Instructor en **Plataforma educativa**
+- 🎥 Enseño a programar en [YouTube](https://www.youtube.com/@JavierGarcia_)
+- 🖥️ Mi Pagina Web [Todo Sobre mi](https://tusitio.com/blog)
+
 
 ## Proyectos Destacados
 <table>
