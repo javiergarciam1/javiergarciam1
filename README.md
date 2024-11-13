@@ -58,11 +58,12 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/javiergarciam1">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuUsuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<a href="https://github.com/javiergarciam1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javiergarciam1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javiergarciam1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
+
 
 ### 📚 Lenguajes y Tecnologías que estoy estudiando
 
