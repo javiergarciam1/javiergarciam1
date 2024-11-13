@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy Javier Garcia👋</h1>
 </div>
-<img src="https://tus-imagen-enlace.com/imagen.png" alt="Imagen de portada">
+<img src="https://github.com/javiergarciam1/javiergarciam1/blob/main/header.png" alt="Imagen de portada">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/tuID?style=social)](https://youtube.com/tu-canal)
 [![Twitch Status](https://img.shields.io/twitch/status/tuUsuario?style=social)](https://www.twitch.tv/tuUsuario)
